@@ -1,0 +1,23 @@
+{
+  "image_paths": [
+    "C:\\Users\\srmariowhite\\Documents\\Proyectos IA\\OkPanaSpawner\\assets\\ok_pana.jpg",
+    "c:\\Users\\srmariowhite\\Documents\\Proyectos IA\\OkPanaSpawner\\assets\\ok_pana.jpg",
+    "C:\\Users\\srmariowhite\\Pictures\\974184963164661754.jpg",
+    "C:\\Users\\srmariowhite\\Pictures\\Snapchat-12596852501.jpg"
+  ],
+  "selected_index": 3,
+  "sound_paths": [
+    "C:\\Users\\srmariowhite\\Documents\\Proyectos IA\\OkPanaSpawner\\assets\\default_pop.wav",
+    "c:\\Users\\srmariowhite\\Documents\\Proyectos IA\\OkPanaSpawner\\assets\\default_pop.wav",
+    "C:\\Users\\srmariowhite\\Downloads\\Lovesick Psycho.mp3",
+    "C:\\Users\\srmariowhite\\Downloads\\dry-fart.mp3"
+  ],
+  "selected_sound_index": 3,
+  "size": "sm",
+  "mode": "window",
+  "autoclose": 0,
+  "sound": true,
+  "volume": 44,
+  "random_image": false,
+  "random_sound": false
+}
